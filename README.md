@@ -54,7 +54,3 @@ Each item in the label files typically has:
 ## Citation
 
 If you use IlluQuant in your work, please cite the corresponding paper (to be updated with publication info).
-
-## License
-
-See [LICENSE](LICENSE). Dataset is released under the specified license.
