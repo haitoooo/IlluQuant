@@ -1,0 +1,58 @@
+[
+  {
+    "id": "ebbinghaus_illusion_illusion_1",
+    "image": "image/ebbinghaus_illusion_illusion_1.png",
+    "question": "Is the red circle the same size as the blue circle?",
+    "option": "[\"Yes, they are the same size.\",\"No, they are not the same size.\"]",
+    "answer": "No, they are not the same size."
+  },
+  {
+    "id": "hering_illusion_illusion_1",
+    "image": "image/hering_illusion_illusion_1.png",
+    "question": "Are the two red lines straight lines?",
+    "option": "[\"Yes, they are straight.\", \"No, they are curved.\"]",
+    "answer": "No, they are curved."
+  },
+  {
+    "id": "muller_lyer_illusion_illusion_1",
+    "image": "image/muller_lyer_illusion_illusion_1.png",
+    "question": "Is the red horizontal line the same length as the blue horizontal line?",
+    "option": "[\"Yes, they are the same length.\",\"No, they are not the same length.\"]",
+    "answer": "No, they are not the same length."
+  },
+  {
+    "id": "orbison_illusion_illusion_1",
+    "image": "image/orbison_illusion_illusion_1.png",
+    "question": "Is the red line diagram a standard square?",
+    "option": "[\"Yes, it is a standard square.\", \"No, the lines are curved.\"]",
+    "answer": "No, the lines are curved."
+  },
+  {
+    "id": "sander_illusion_illusion_1",
+    "image": "image/sander_illusion_illusion_1.png",
+    "question": "Are the two red lines the same length?",
+    "option": "[\"Yes, they are the same length.\",\"No, they are not the same length.\"]",
+    "answer": "No, they are not the same length."
+  },
+  {
+    "id": "white_illusion_illusion_1",
+    "image": "image/white_illusion_illusion_1.png",
+    "question": "Are the colors of the A and B stripes the same?",
+    "option": "[\"Yes, they are the same color.\",\"No, they are different colors.\"]",
+    "answer": "No, they are different colors."
+  },
+  {
+    "id": "wundt_illusion_illusion_1",
+    "image": "image/wundt_illusion_illusion_1.png",
+    "question": "Are the two red lines straight lines?",
+    "option": "[\"Yes, they are straight.\", \"No, they are curved.\"]",
+    "answer": "No, they are curved."
+  },
+  {
+    "id": "zollner_illusion_illusion_1",
+    "image": "image/zollner_illusion_illusion_1.png",
+    "question": "Are the four blue lines vertically parallel?",
+    "option": "[\"Yes, they are vertically parallel.\", \"No, they are not vertically parallel.\"]",
+    "answer": "No, they are not vertically parallel."
+  }
+]

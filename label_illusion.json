@@ -1,0 +1,79 @@
+[
+  {
+    "id": "adelson_checker_shadow_illusion",
+    "image": "image/adelson_checker_shadow_illusion.png",
+    "question": "Are the colors in areas A and B the same?",
+    "option": "[\"Yes, they are the same color.\",\"No, they are different colors.\"]",
+    "answer": "Yes, they are the same color."
+  },
+  {
+    "id": "ebbinghaus_illusion",
+    "image": "image/ebbinghaus_illusion.png",
+    "question": "Is the red circle the same size as the blue circle?",
+    "option": "[\"Yes, they are the same size.\",\"No, they are not the same size.\"]",
+    "answer": "Yes, they are the same size."
+  },
+  {
+    "id": "fick_illusion",
+    "image": "image/fick_illusion.png",
+    "question": "Is the horizontal line as long as the vertical line?",
+    "option": "[\"Yes, they are the same length.\",\"No, they are not the same length.\"]",
+    "answer": "Yes, they are the same length."
+  },
+  {
+    "id": "hering_illusion",
+    "image": "image/hering_illusion.png",
+    "question": "Are the two red lines straight lines?",
+    "option": "[\"Yes, they are straight.\", \"No, they are curved.\"]",
+    "answer": "Yes, they are straight."
+  },
+  {
+    "id": "jastrow_illusion",
+    "image": "image/jastrow_illusion.png",
+    "question": "Are the areas of the top sector and the bottom sector the same?",
+    "option": "[\"Yes, they are the same size.\", \"No, they are not the same size.\"]",
+    "answer": "Yes, they are the same size."
+  },
+  {
+    "id": "muller_lyer_illusion",
+    "image": "image/muller_lyer_illusion.png",
+    "question": "Is the red horizontal line the same length as the blue horizontal line?",
+    "option": "[\"Yes, they are the same length.\",\"No, they are not the same length.\"]",
+    "answer": "Yes, they are the same length."
+  },
+  {
+    "id": "orbison_illusion",
+    "image": "image/orbison_illusion.png",
+    "question": "Is the red line diagram a standard square?",
+    "option": "[\"Yes, it is a standard square.\", \"No, the lines are curved.\"]",
+    "answer": "Yes, it is a standard square."
+  },
+  {
+    "id": "sander_illusion",
+    "image": "image/sander_illusion.png",
+    "question": "Are the two red lines the same length?",
+    "option": "[\"Yes, they are the same length.\",\"No, they are not the same length.\"]",
+    "answer": "Yes, they are the same length."
+  },
+  {
+    "id": "white_illusion",
+    "image": "image/white_illusion.png",
+    "question": "Are the colors of the A and B stripes the same?",
+    "option": "[\"Yes, they are the same color.\",\"No, they are different colors.\"]",
+    "answer": "Yes, they are the same color."
+  },
+  {
+    "id": "wundt_illusion",
+    "image": "image/wundt_illusion.png",
+    "question": "Are the two red lines straight lines?",
+    "option": "[\"Yes, they are straight.\", \"No, they are curved.\"]",
+    "answer": "Yes, they are straight."
+  },
+  {
+    "id": "zollner_illusion",
+    "image": "image/zollner_illusion.png",
+    "question": "Are the four blue lines vertically parallel?",
+    "option": "[\"Yes, they are vertically parallel.\", \"No, they are not vertically parallel.\"]",
+    "answer": "Yes, they are vertically parallel."
+  }
+]
